@@ -1,6 +1,10 @@
 body {
-    background-color: lightgray;
+    background-image: linear-gradient(gray, lightgray);
     color: darkred;
     font-family: courier;
     text-align: center;
+    width: 1000px;
+    border: 30px;
+    padding: 50px;
+    margin: auto
 }
