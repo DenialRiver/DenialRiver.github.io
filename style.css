@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(gray, lightgray);
+    background-image: linear-gradient(to bottom, #33ccff, #ff99cc, #FFFFff, #ff99cc, #33ccff);
     color: darkred;
     font-family: courier;
     text-align: center;
